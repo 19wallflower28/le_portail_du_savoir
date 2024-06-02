@@ -29,7 +29,11 @@ document.addEventListener('DOMContentLoaded', function() {
             type: "youtube",
             videoId: "jbIASqL7zss5hb2y"
         },
-       
+       { 
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
+            type: "youtube",
+            videoId: "SF73ac-K594"
+        },
         }
     ];
 

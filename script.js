@@ -22,32 +22,14 @@ document.addEventListener('DOMContentLoaded', function() {
         { 
             text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
             type: "youtube",
-            videoId: "lrBiJyB2VwE"
+            videoId: "Qip7-BJHRZdC1z0N"
         },
         { 
             text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
             type: "youtube",
-            videoId: "UXxnTkmMsAM"
+            videoId: "jbIASqL7zss5hb2y"
         },
-        { 
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
-            type: "youtube",
-            videoId: "PwkSm9yTYGM"
-        },
-        { 
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
-            type: "youtube",
-            videoId: "F3pga_nCXNg"
-        },
-        { 
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé. ?", 
-            type: "youtube",
-            videoId: "v_TnZzL_wpc"
-        },
-        { 
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
-            type: "youtube",
-            videoId: "aq2rI0ETyk4"
+       
         }
     ];
 

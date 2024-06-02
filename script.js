@@ -16,47 +16,73 @@ document.addEventListener('DOMContentLoaded', function() {
     var messages = [
         { 
             type: "youtube",
-            videoId: "KGKT2LBdxL8",
+            videoId: "2QCRvFteUV0",
             text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         }, 
         { 
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
             type: "youtube",
-            videoId: "lrBiJyB2VwE"
+            videoId: "2QCRvFteUV0",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
+        }, 
+        { 
+            type: "youtube",
+            videoId: "SF73ac-K594",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
+        }, 
+        { 
+            type: "youtube",
+            videoId: "4iEaC9xamLw",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
+        }, 
+        { 
+            type: "youtube",
+            videoId: "Pu06hhH1hoM",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
+        }, 
+        { 
+            type: "youtube",
+            videoId: "LjSHNNmuUCU",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         },
         { 
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
             type: "youtube",
-            videoId: "UXxnTkmMsAM"
+            videoId: "P0SJIh3hu-Y",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         },
         { 
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
             type: "youtube",
-            videoId: "PwkSm9yTYGM"
+            videoId: "P0SJIh3hu-Y",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         },
         { 
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
             type: "youtube",
-            videoId: "F3pga_nCXNg"
+            videoId: "I_GpMw8m-PE",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         },
         { 
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé. ?", 
             type: "youtube",
-            videoId: "v_TnZzL_wpc"
+            videoId: "BjEa-1LF05c",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         },
         { 
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé.", 
             type: "youtube",
-            videoId: "aq2rI0ETyk4"
+            videoId: "BvUqADU9XUE",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
+        },
+        { 
+            type: "youtube",
+            videoId: "PGmYA1PeTis",
+            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         }
+
     ];
 
     // Lien Vimeo
     var vimeoSounds = [
-        '<iframe src="https://player.vimeo.com/video/952807178?autoplay=1" frameborder="0" allow="autoplay; fullscreen" style="width:100%;height:100%;"></iframe>',
+        '<iframe src="https://player.vimeo.com/video/952898892?autoplay=1" frameborder="0" allow="autoplay; fullscreen" style="width:100%;height:100%;"></iframe>',
         '<iframe src="https://player.vimeo.com/video/952801411?autoplay=1" frameborder="0" allow="autoplay; fullscreen" style="width:100%;height:100%;"></iframe>',
         '<iframe src="https://player.vimeo.com/video/952802634?autoplay=1" frameborder="0" allow="autoplay; fullscreen" style="width:100%;height:100%;"></iframe>',
-        '<iframe src="https://player.vimeo.com/video/952807178?autoplay=1" frameborder="0" allow="autoplay; fullscreen" style="width:100%;height:100%;"></iframe>',
+        '<iframe src="https://player.vimeo.com/video/952898892?autoplay=1" frameborder="0" allow="autoplay; fullscreen" style="width:100%;height:100%;"></iframe>',
 
     ];
 

@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var messages = [
         { 
             type: "youtube",
-            videoId: "KGKT2LBdxL8",
+            videoId: "dQw5gBiEjYQGbp_g",
             text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         }, 
         { 

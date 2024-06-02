@@ -21,11 +21,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 
         { 
             type: "youtube",
-            videoId: "2QCRvFteUV0",
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
-        }, 
-        { 
-            type: "youtube",
             videoId: "SF73ac-K594",
             text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         }, 
@@ -42,11 +37,6 @@ document.addEventListener('DOMContentLoaded', function() {
         { 
             type: "youtube",
             videoId: "LjSHNNmuUCU",
-            text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
-        },
-        { 
-            type: "youtube",
-            videoId: "P0SJIh3hu-Y",
             text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         },
         { 
@@ -74,7 +64,6 @@ document.addEventListener('DOMContentLoaded', function() {
             videoId: "PGmYA1PeTis",
             text: "Si vous souhaitez continuer de jouer avec Ragnar, gardez votre écran allumé."
         }
-
     ];
 
     // Lien Vimeo
@@ -83,7 +72,6 @@ document.addEventListener('DOMContentLoaded', function() {
         '<iframe src="https://player.vimeo.com/video/952801411?autoplay=1" frameborder="0" allow="autoplay; fullscreen" style="width:100%;height:100%;"></iframe>',
         '<iframe src="https://player.vimeo.com/video/952802634?autoplay=1" frameborder="0" allow="autoplay; fullscreen" style="width:100%;height:100%;"></iframe>',
         '<iframe src="https://player.vimeo.com/video/952898892?autoplay=1" frameborder="0" allow="autoplay; fullscreen" style="width:100%;height:100%;"></iframe>',
-
     ];
 
     function afficherMessageAleatoire() {
@@ -96,7 +84,6 @@ document.addEventListener('DOMContentLoaded', function() {
         // Ajouter l'image sauf pour le premier popup
         if (!firstPopup) {
             var image = document.createElement('img');
-          
             image.id = 'popupImage';
             popup.appendChild(image);
         } else {
@@ -140,5 +127,4 @@ document.addEventListener('DOMContentLoaded', function() {
         vimeoIframe.style.left = '-9999px';
         document.body.appendChild(vimeoIframe);
     }
-    
 });
